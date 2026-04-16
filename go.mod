@@ -1,6 +1,6 @@
 module github.com/edennis/aws-env
 
-go 1.24.2
+go 1.25.9
 
 require github.com/aws/aws-sdk-go v1.44.20
 
